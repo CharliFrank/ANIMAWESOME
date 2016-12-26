@@ -1,0 +1,32 @@
+/*this page is for the main styling of the web page 
+
+the color scheme will be (
+
+coral #E27D60
+blue #85DCB
+peach #E8A87C
+purple #C38D9E
+turquoise #41B3A3
+
+	)
+
+after i figure out which color goes where figure out what hover color i want my links to be and what color i want it to be after it has been clicked
+
+
+do i want some kid of picture in the background?? 
+
+*/
+
+#logo{
+	padding: 0;
+    display: block;
+    margin: 0 auto;
+    max-height: 100%;
+    max-width: 100%;
+}
+
+ul{
+	list-style: none;
+	text-align: center;
+}
+

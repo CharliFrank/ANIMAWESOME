@@ -1,0 +1,84 @@
+what type of questions are asked when trying to fiqure out whats the right anime for you?
+
+GENRES!! 
+-Action
+-Adventure
+-Comedy
+-Drama
+-Ecchi
+-Fantasy
+-Game 
+-Harem
+-Hentai
+-Historical
+-Horror
+-Josei
+-Magic
+-Martial Arts
+-Mecha
+-Military
+-Music (NANA)
+-Mystery
+-Parody
+-Psychological
+-Reverse Harem
+-Romance
+-School (Ouran High School Host Club, )
+-Sci-Fi
+-Seinen
+-Shoujo
+-Shounen
+-Slice of Life
+-Sports
+-Supernatural
+-Tragedy
+-Vampire (Vampire Knight, )
+-Yaoi
+-Yuri
+
+
+Do i relly need to create a page for each anime or is it possible to use some 
+ kind of Javascript magic and input a function or something so that the page
+ can be automatically created or somehthing.
+
+recheck on that thing where i wont have to save a hundred million pictures 
+ but one or two files. google it, i know i saw it!
+
+gather information on top questions to ask about anime genres 
+
+
+MULTIPLE ANIME CAN HAVE MULTIPLE GENRES!!! 
+ see how i want to class the genres for my anime
+
+NANA Romance, Drama, Music, Slice of Life
+Vampire Knight Romance, Drama, Supernatural
+Ouran High School Host Club School, Romance 
+
+
+
+
+Do i need to wrap my sections in a <div></div> or do i wrap it in a class ?
+
+should i have borders around my sectons?
+
+Should i woory about layout then the information to be input or set up the layout then worry about the layout later?
+right now im lening towards the layout then i can go in and add things in the sections that i wan them in.
+
+do i want all of my sections to look the same?
+
+where do i want to get my links for my videos from?
+how big do i want my videos to be?
+
+seriously should i do judt dub or sub/dub?
+im leaning towards dub.
+
+
+
+
+bootstrap may have a search bar option
+
+
+do i want my home button to have a drop down option?
+
+do i want to add a go to bottom option?
+
